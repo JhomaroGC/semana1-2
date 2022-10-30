@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Jhomaro Alberto Gaviria Cataño",
+        "correo": "jhomaro@gmail.com",
+        "edad": 38
+    },
+    {
+        "id": 2,
+        "name": "Viviana Marcela Franco Gonzalez",
+        "correo": "viviana@gmail.com",
+        "edad": 28
+    },
+    {
+        "id": 3,
+        "name": "Maria Fernanda Gaviria Franco",
+        "correo": "fernanda@gmail.com",
+        "edad": 4
+    },
+    {
+        "id": 4,
+        "name": "German de Jesus Gaviria",
+        "correo": "german@gmail.com",
+        "edad": 73
+    }
+]
